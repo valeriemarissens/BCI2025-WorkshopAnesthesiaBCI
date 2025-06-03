@@ -3,6 +3,7 @@
 11th International BCI Meeting - June 2 to 5, 2025
 
 Starting questionnaire: https://forms.gle/9DqtZnfAxpByCiQT8
+Wooclap access: https://app.wooclap.com/APNGLX?from=event-page
 
 ## Organizers
 - Sébastien Rimbert,  Inria Center at the University of Bordeaux / LaBRI, France, sebastien.rimbert@inria.fr 
