@@ -9,8 +9,8 @@
 ## Organizers
 - Sébastien Rimbert,  Inria Center at the University of Bordeaux / LaBRI, France, sebastien.rimbert@inria.fr 
 - Sebastian Halder, University of Essex,UK, s.halder@essex.ac.uk
-- Valérie Marissens Cueva,  Inria Center at the University of Bordeaux / LaBRI, France and Université de Lorraine, CNRS, LORIA, Nancy, France, valerie.marissens@loria.fr
 - Bjørn Erik Juel, Vestre Viken Health Trust and University of Oslo, Norway, b.e.juel@medisin.uio.no 
+- Valérie Marissens Cueva,  Inria Center at the University of Bordeaux / LaBRI, France and Université de Lorraine, CNRS, LORIA, Nancy, France, valerie.marissens@loria.fr
 - Fabien Lotte,  Inria Center at the University of Bordeaux / LaBRI, France, fabien.lotte@inria.fr
 - Claude Meistelman,  University of Lorraine, DevAH, claudemeistelman@proton.me 
 - Laurent Bougrain, Université de Lorraine, CNRS, LORIA, Nancy, France /Sorbonne Université, Institut du Cerveau – Paris Brain Institute - ICM, CNRS, Inria, Inserm, AP-HP, Hopital de la Pitié Salpêtrière, 75013 Paris, France, laurent.bougrain@icm-institute.org
